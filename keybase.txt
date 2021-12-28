@@ -1,0 +1,71 @@
+==================================================================
+https://keybase.io/b10n
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://dittes.nl
+  * I am b10n (https://keybase.io/b10n) on keybase.
+  * I have a public key with fingerprint D6F6 6C01 A2B1 004B D80F  31C3 8754 8394 F2AD 952A
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "d6f66c01a2b1004bd80f31c387548394f2ad952a",
+            "host": "keybase.io",
+            "key_id": "87548394f2ad952a",
+            "kid": "010192e73004aa08fd157bd9bd2e2b274a51b30c3c6d8d644f16bbd4a5f41dd727de0a",
+            "uid": "ed0b11f1f8efe7e0b481b6863e80e319",
+            "username": "b10n"
+        },
+        "service": {
+            "hostname": "dittes.nl",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1431850475,
+    "expire_in": 157680000,
+    "prev": "cb66bd0c26dbcec31a0ef688bb8c7bc3d9885d9627b452ece885ea941d77016a",
+    "seqno": 2,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFtkn9QVFUUx3f5oQI5ISI6wFDzAElcnPdr34/FYdTSCSEYbXGIgbZ3370PHqv7
+lt2FZBDJQA1nRBhUNGkACTNNJakGISMKa0Cclh+hUzmkMQXrbCMOZCYLvcfYf91/
+7pzv+Z7PvefMqV3urwvW31vvdsTWnyjU3+xNBrqs7IzIMgwosBQzlWFWtHhJsi0f
+OewO2ebCTBhkJIYRcUIgAYHjNIAcLlGESHGskeYonpZIAfJGUsAMWIHi1CpUDBCc
+aIOsqJoaWGSoqv/jty4mcAIneBKxlEoXBJyTIGFkAeQBJBEJSJYWjASgcJESGchB
+hqYlggEAqrJEExCyJAsRruGKF3EI4oAgJELikIRYhAOaIwDDMRTicEQRvGZ0IodN
+2INUt9qTDSs3YKpSIotIa1/r4lkWyi4Xcm6w7VaL7A7FpYjKblUucLnsTpNW5iq1
+a763EbA8I1iAbIPqANWKEuRwyooNMxGqU3TJGpKgKYIz4jRrNGBor112IIusOYws
+w+Hq0d5BJSpSBAwDIC6SDAQiEilCwJHEcBwAnMgCkYI8xxkhz5AsoI0kEpEaIoFX
+J8KyOMFo83CiIpuCmUj1m0K+inTK+TbBVexAWHlwtV90gE4frFsS6KftgC44KPS/
+zfjJE6prMq8+d/dTz+DHuz6JH9MfzYuOOQKOHRX2ZVTc7ufXe1cMYS8mV+8PnMi0
+Zn/YWZFSqLezqUVr54Z3pYHmtLDcm4aAL82T/j11ETEfLczceK4/u7ypb+4v3zK3
+qcOvkXe2eN/ZfMcavGzbu5XVtuSGg/qhyX3URdATFHd8vG3PDv3Zr16LiJruismN
+zz2xcbb5eOz0m6i3JXRLVYZ92rfz0NL2MPMIOd8a98KB5e0ba2/1hp9kLrlz4u7L
+HbNrfI1tU301fW39Vw52TtTQxuLvxVcbIkOWXqTSE6tSlvy4d2Zu3aGab8+xRwLT
+u29Hvh6V0TYaVB974Bc8LdfiHSj6zv5Y8ZhPtU85Kx6uiN+eGWNXnnofDer73FHy
+TnfBCCdGeFKHBwdGHv+TdbJl+LIpf3X0U8eWyIHaBP2ou+bu1tYnvyUqXckB1lNN
+cfMS4FYWWSMcD88ElW5qGgqnrqXNvpdwefOqdYYfHtRcf//PsqT0TbPNJQVzRS7z
+dGAMrH0ppzH72tbzqdGfn2/wvFJ9Z9X1EMPYg799L4fKhsDxhISvs54/PfoNDDlc
+mVTnqVr42etL6Z7O3DaY9+vVsBtvdXk9rV9ciF55+pE5qe7eWO2Z2D/CF7bn1Q9d
+DREjZyxT98ffSOzM+f1SN39h7a1J35qOyvmekrnD5gm3f2Hlk8/wK1LO/oIP2v4F
+=LPyF
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/b10n
+
+==================================================================
+
